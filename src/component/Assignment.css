@@ -1,0 +1,43 @@
+.container{
+    margin-top: 100px;
+    padding: 20px;
+    background: rgb(190, 223, 102);
+    width: 900px;
+    height: 700px;
+    border: 5px solid rgb(13, 7, 7);
+    border-radius: 10px 2px 25px 30px;
+    box-shadow: 0px 0px 100px 12px rgb(216, 77, 77);
+}
+.habit{
+    text-align: center;
+    color: rgb(155, 17, 240);
+    font-weight: 1000;
+    border: dotted;
+}
+.but{
+    text-align: center;
+    padding: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 300px;
+    background-color: rgb(255, 0, 140);
+    font-weight: 1000;
+    font-size: 10px;
+}
+
+.tas{
+    margin-left: 20px;
+    color: rgba(244, 14, 14, 0.538);
+}
+
+.delete-btn{
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+    background-color: aqua;
+}
+.delete-btn:hover{
+    background-color: red;
+    width: 70px;
+    height: 30px;
+    color: aqua;
+}
